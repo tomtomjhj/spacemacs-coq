@@ -60,6 +60,7 @@
     "n" 'proof-assert-next-command-interactive
     "u" 'proof-undo-last-successful-command
     "h" 'company-coq-doc
+    "lc" 'coq-LocateConstant
     "ll" 'proof-layout-windows
     "lp" 'proof-prf
     "x" 'proof-shell-exit
